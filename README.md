@@ -1,10 +1,10 @@
 # AWS CloudFormation Automation Lab 
 
-![image](https://github.com/user-attachments/assets/a5c6eb07-013f-4968-9f51-d7373c692bd3)
-
-![image](https://github.com/user-attachments/assets/380d7074-9813-4ebc-8cbb-933b1f8db22f)
-
-
+<div style="display: flex; justify-content: center; gap: 15px;">
+  <img src="https://github.com/user-attachments/assets/a5c6eb07-013f-4968-9f51-d7373c692bd3" width="200">
+  <img src="https://github.com/user-attachments/assets/380d7074-9813-4ebc-8cbb-933b1f8db22f" width="200">
+  <img src="https://github.com/user-attachments/assets/bd55efb3-9cb2-4c58-bc08-eb2acfd6a30a" width="200">
+</div>
 
 ## Overview
 

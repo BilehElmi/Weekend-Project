@@ -1,4 +1,7 @@
-# AWS CloudFormation Automation Lab
+# AWS CloudFormation Automation Lab 
+
+![image](https://github.com/user-attachments/assets/a5c6eb07-013f-4968-9f51-d7373c692bd3)
+
 
 ## Overview
 

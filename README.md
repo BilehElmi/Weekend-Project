@@ -68,8 +68,5 @@ Before using these CloudFormation templates, ensure you have:
 ## License
 This project is open-source and available under the [MIT License](LICENSE).
 
-## Contact
-For questions or collaboration, feel free to reach out:
-- **GitHub**: [your-username](https://github.com/your-username)
-- **Email**: your-email@example.com
+
 
